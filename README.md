@@ -2,7 +2,7 @@ Hi, I am Nehit pahuja
 
 Aspiring Software Developer | Video Editor
 
-Passionate about coding and creativity, I’m learning C, C++, Java, and Python while exploring problem-solving through hackathons. I also have experience as a video editor (DaVinci Resolve and after effects), having worked as an creative director for a clothing brand. Always eager to learn and innovate, I look forward to new opportunities to grow and collaborate.
+Passionate about coding and creativity, I’m learning C, C++, Java, and Python while exploring problem-solving through hackathons. I also have experience as a video editor (DaVinci Resolve and after effects), having worked as an creative director for a clothing brand. Always eager to learn and innovate, I look forward to new opportunities to grow and collaborate. Currently working on an app for college students to lookup there academics and sell things.
 
 
 ## 🌐 Socials:
